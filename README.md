@@ -63,10 +63,10 @@ Abra o arquivo principal (index.js) e configure:
 const TOKEN = "SEU_TOKEN_DO_BOT_AQUI";
 const ID_CANAL_LOGS = "ID_DO_CANAL_DE_LOGS";
 const ID_CARGO_APROVADOR = "ID_DO_CARGO_APROVADOR";
+
 Inicie o bot:
-
-
 node index.js
+
 Gerar o painel principal:
 No Discord, envie:
 !painel
@@ -101,4 +101,4 @@ Sistema de notificações automáticas para metas atingidas.
 
 Suporte a múltiplos servidores (multi-guild).
 
-Desenvolvido com ❤️ e ☕ por [SLandXD].
+Desenvolvido com ❤️ e ☕ por [SlandXD].
